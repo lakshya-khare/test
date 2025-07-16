@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Welcome to Nexus Network!",
+    "author": "Lakshya Khare",
+    "content": "This is the first public blog post on the Nexus Network. Stay tuned for more awesome content.",
+    "image": "https://source.unsplash.com/featured/600x300?technology"
+  },
+  {
+    "title": "How AI is Revolutionizing Everything",
+    "author": "Riya Patel",
+    "content": "Artificial Intelligence is no longer the future – it's the present. Here’s what you should know.",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "title": "Open Source Guide PDF",
+    "author": "Devansh Mehta",
+    "content": "Download this guide to get started with Open Source contributions.",
+    "pdf": "https://www.africau.edu/images/default/sample.pdf"
+  }
+]
